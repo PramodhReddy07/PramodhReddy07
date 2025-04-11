@@ -8,10 +8,10 @@
 
 🚀 I'm passionate about building web applications, exploring system design, and applying AI for smarter software.
 
-- 🎯 Currently building **JobMatch AI** – an AI-powered resume + JD analyzer
+
 - 💬 Ask me about **Java**, **DSA**, **Django**, or anything tech-related
 - 📚 Currently diving deep into **Java Spring Boot** and **System Design**
-- 📷 I love photography – [see my shots](https://your-photography-link.com) *(link when ready)*
+- 📷 I love photography 
 
 ---
 
